@@ -9,7 +9,7 @@ code to run on terminal
 3: run command (4 represents number of processors, exe file will be your executable file with your project name in the debug folder)
    mpiexec –n 4 ./pdcA2.exe
 
-#Here is the complete problem detail
+# Here is the complete problem detail
 Write a distributed program using ‘MPI’ to perform matrix operations as instructed below. You can
 paste your code in this document. Teaching assistant can ask any student to run the code or he can
 conduct a viva to check the authenticity.
